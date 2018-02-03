@@ -589,6 +589,7 @@
 (^|\.)(d0|dw|pv)\.xcar\.com\.cn$
 (^|\.)a1\.itc\.cn$
 (^|\.)ad\.12306\.cn$
+
 (^|\.)ad\.3\.cn$
 (^|\.)ad\.95306\.cn$
 (^|\.)ad\.caiyunapp\.com$
@@ -6619,3 +6620,6 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
+
+#Tim表情包
+(^|\.)zb\.vip\.qq\.com$
