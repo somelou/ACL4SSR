@@ -273,6 +273,13 @@
 (^|\.)res\.imtt\.qq\.com$
 (^|\.)gdt\.qq\.com$
 
+#Tim表情
+(^|\.)zb\.vip\.qq\.com$
+(^|\.)mcgi\.v\.qq\.com$
+(^|\.)i\.gtimg\.cn$
+223.111.187.16
+223.111.187.141
+
 # RenRen
 (^|\.)jebe\.renren\.com$
 (^|\.)ebp\.renren\.com$
@@ -6619,6 +6626,3 @@
 (^|\.)neulion\.com$
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
-
-#Tim表情
-(^|\.)(gxh|zb)\.vip\.qq\.com$
