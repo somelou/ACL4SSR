@@ -6620,5 +6620,5 @@
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
 
-#Tim表情包
-(^|\.)vip\.qq\.com$
+#Tim表情
+(^|\.)(gxh|zb)\.vip\.qq\.com$
